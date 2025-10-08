@@ -1,4 +1,11 @@
 
+<<<<<<< HEAD
 Change from feature branch
 Change from main
+=======
+Message from main branch
+Message from main branch
+
+
+>>>>>>> parent of 8b0c261 (Change message in main)
 
